@@ -32,3 +32,13 @@ python lab<x>/<filename>.py
 * Perform logistic regression on wine quality dataset to predict classes.
 * Check performance for different data sizes.
 * Calculate hard and soft errors.
+
+
+### Lab 5. Graph Algorithms
+* Implement these graph traversal algorithms -
+    * Depth First Search
+    * Breadth First Search
+    * A* Search
+* Find solutions to following problems -
+    * 8 Number Problem
+    * N-Queen Problem
